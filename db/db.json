@@ -1,0 +1,24 @@
+{
+  "savedNotes": [
+    {
+      "id": "0",
+      "title": "Pet Store",
+      "text": "Pick up dog and cat food"
+    },
+    {
+      "id": "1",
+      "title": "Portfolio",
+      "text": "Update portfolio for job applications"
+    },
+    {
+      "id": "3",
+      "title": "Job Applications",
+      "text": "Start sending applications out for a developer job"
+    },
+    {
+      "title": "Test1",
+      "text": "testing111",
+      "id": "3"
+    }
+  ]
+}

@@ -12,7 +12,7 @@ This is a simple application that can be used to write and save notes. I used Ex
 ## Usage
 This application can be found her at this Heroku deployed site:  https://thawing-wave-70172.herokuapp.com/
 
-![screenshot](screenshot.jpg))
+![screenshot](screenshot.jpg)
 
 ## Licensing
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
